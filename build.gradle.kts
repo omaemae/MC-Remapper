@@ -8,7 +8,7 @@ group = "io.heartpattern"
 version = "2.0.3-SNAPSHOT"
 
 repositories {
-    maven("https://maven.heartpattern.io/repository/maven-public/")
+    maven("http://maven.heartpattern.io/repository/maven-public/")
 }
 
 dependencies {
